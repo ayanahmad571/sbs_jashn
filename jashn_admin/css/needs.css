@@ -1,0 +1,11 @@
+.button-href {
+	border:none;
+	background-color:white;
+	padding:2% 3% 2% 3%;
+	margin:1%;
+	width:auto;
+	float:left;
+}
+.navbar-collapse {
+	align-items:center;
+}
